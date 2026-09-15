@@ -2,7 +2,7 @@
 Nama: Shafa Aurellia Rufina Maharani
 Nim: 2609116001
 
-
+Program ini berguna untuk mengelola dan menyimpan data buku secara otomatis. Di dalam program ini menggunakan dictionary dan looping. Program ini menyimpan  informasi seperti judul, penulis, tahun terbit, dan penerbit dalam bentuk Key-Value serta terdapat pilihan seperti menampilkan data buku, menambahkan, mengubah, dan menghapus. Looping berguna untuk menjalankan berbagai menu pengelolaan data secara berulang sampai pengguna memilih menu keluar.
 
 <img width="1030" height="727" alt="Output 1, 2, 3" src="https://github.com/user-attachments/assets/dc757087-fef2-486f-bbe7-c06d528e60a2" />
 <img width="1100" height="262" alt="Output 5" src="https://github.com/user-attachments/assets/4bd80d60-c12b-4876-91a5-7765827c6830" />
